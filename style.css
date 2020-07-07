@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+
 body {
-    background-color: aqua;
+    background-color: #FED782;
 }
 
 .centered {
@@ -8,4 +10,11 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
+}
+
+h1 {
+    color: #004781;
+    font-family: 'Six Caps', sans-serif;
+    font-size: 100px;
+
 }
